@@ -1,9 +1,0 @@
-youscout-demo/
-├─ backend/
-│   ├─ main.py
-│   ├─ players.csv
-│   └─ requirements.txt
-└─ frontend/
-    ├─ package.json
-    └─ src/
-        └─ App.jsx
